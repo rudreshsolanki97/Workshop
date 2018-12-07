@@ -1,6 +1,6 @@
 pragma solidity ^0.4.22;
 
-contract Voting{
+contract auction{
     
     address owner;
     uint returnCount;
